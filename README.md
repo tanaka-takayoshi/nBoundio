@@ -1,4 +1,7 @@
-== Boundio for Node.js
+## Boundio for Node.js
 
-== Boundio
-https://boundio.jp/
+## What's Boundio
+see https://boundio.jp/
+
+## Sample code
+    node sample/tutorial.js
