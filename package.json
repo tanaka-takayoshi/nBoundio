@@ -1,0 +1,21 @@
+{
+    "name": "nBoundio",Ω
+    "author": "Takayoshi Tanaka <yossy1980@hotmail.co.jp>",
+    "description": "Boundio for node.js",
+    "version": "0.0.1",
+    "homepage": "https://github.com/tanaka-takayoshi/nBoundio",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tanaka-takayoshi/nBoundio.git"
+    },
+    "preferGlobal" : false,
+    "keywords": ["boundio"],
+    "dependencies": {
+        "restler": ">= 2.0.0"},
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": ">= 0.6"
+    },
+    "main": "./boundio"
+}
