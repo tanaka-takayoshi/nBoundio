@@ -8,9 +8,9 @@ console.log('Make a call to ' + phone_number);
 
 Boundio.call(phone_number, 'file(000001)', function(error, data) {
     if (error) {
-		console.error('error occured.');
-		console.error(error);
-	} else {
-		console.log('call success');
-		console.log(data);
+        console.error('error occured.');
+        console.error(error);
+    } else {
+        console.log('call success');
+        console.log(data);
     }});

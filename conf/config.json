@@ -1,6 +1,6 @@
 {
     "userid": "<ユーザーシリアルID>",
-	"authkey": "<ユーザー認証キー>",
-	"apikey": "<APIアクセスキー>",
-	"development": true
+    "authkey": "<ユーザー認証キー>",
+    "apikey": "<APIアクセスキー>",
+    "development": true
 }
